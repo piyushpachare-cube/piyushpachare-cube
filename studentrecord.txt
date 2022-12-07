@@ -1,0 +1,8 @@
+Name                    Numbare     Dept.   E-mail                         sem      ERP
+Piyush Pralhad Pachare	7378438902	ECE	    piyushpachare6@gmail.com	    3	    ECE25947
+Nishad Ajay Bhalerao	7218935278	ECE	    bhaleraonishad2000@gamil.com	3	    ECE26140
+Omkar Bhosle	        9158750078	CSE	    omkarbhosle888@gmail.com	    3	    CSE20494
+himanshu	            9422707287	ECE	    hchhajed06@gmail.com	        3	    ECE12283
+Sneha Chavan	        7249766006  ECE	    sneha763183@gmail.com	        3	    ECE25698
+Himanshu Chhajed	    9422707287	ECE	    hchhajed06@gmail.com	        3	    ECE26240
+Manisha Sarda	        724356890	CSE	    manjush@123.com	                3	    CSE32157
